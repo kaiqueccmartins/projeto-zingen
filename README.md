@@ -9,7 +9,7 @@
 <p align="center">
   <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#layout">Layout</a>
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 O Zingen é uma landing page criada para praticar conceitos de estruturação de conteúdo, estilização com CSS e responsividade. O layout simula uma página institucional moderna com foco em usabilidade.
 
-Acesse o projeto online
+🔗 [Acesse o projeto online](https://kaiqueccmartins.github.io/projeto-zingen)
 
 ## 🔖 Layout
 O layout foi criado pelo time de design da Rocketseat para a formação Full-stack. Para visualizar o layout do projeto no Figma é necessário ser aluno e estar logado na conta.
